@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ExpenseTracker</string>
+    <string name="username">Utkarsh</string>
+    <string name="totalbalance">100</string>
+</resources>
